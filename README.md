@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @EuNistor
+- 👀 I’m interested in web design and video games programming
+- 🌱 I’m currently learning python and javascript
+- 💞️ I’m looking to collaborate on web design projects
